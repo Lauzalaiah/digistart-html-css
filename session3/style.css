@@ -1,0 +1,89 @@
+div {
+    background-color: grey;
+    color: red;
+    text-align: right;
+
+}
+
+body {
+    background-color: grey;
+
+}
+
+h1{
+    background-color: white;
+    margin-top: 10 ;
+    margin-bottom: 10;
+}
+
+
+
+#section-1 {
+    color: blue;
+    text-align: center;
+
+
+
+}
+
+
+#section-2 {
+    color: orange;
+    text-align: center;
+
+}
+
+
+
+#section-3 {
+    color: purple;
+    text-align: center;
+
+
+}
+
+
+
+.contenu-mixte {
+    color:red;
+    background-color: grey;
+    text-align: right;
+
+}
+
+
+.contenu-lien {
+    color: red;
+    background-color: grey;
+    text-align: center;
+
+}
+
+
+.contenu-image {
+    background-color: grey;
+    text-align: center;
+}
+
+
+
+.contenu-texte-1 {
+    color: black;
+    background-color: white;
+    text-align: left;
+}
+
+
+.contenu-texte-2 {
+    color: black;
+    background-color: white;
+    text-align: left;
+}
+
+.contenu-texte-3 {
+    color: black;
+    background-color: white;
+    text-align: left;
+}
+
+
